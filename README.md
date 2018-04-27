@@ -10,7 +10,7 @@
 
 
 
-## ACL2018
+## ACL2018(No Links)
 
 * [Improving Knowledge Graph Embedding Using Simple Constraints]()
 * [Domain Adaptation with Adversarial Training and Graph Embeddings]()
