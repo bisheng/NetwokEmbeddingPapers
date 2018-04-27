@@ -7,3 +7,20 @@
 * [RaRE：Social Rank Regulated Large-scale Network Embedding](http://yupenggu.me/papers/WWW18_RaRE.pdf)
 * [SIDE：Representation Learning in Signed Directed Networks](https://datalab.snu.ac.kr/~ukang/papers/sideWWW2018.pdf)
 * [VERSE：Versatile Graph Embeddings from Similarity Measures](https://arxiv.org/pdf/1803.04742.pdf) 
+
+
+
+## ACL2018
+
+* [Improving Knowledge Graph Embedding Using Simple Constraints]()
+* [Domain Adaptation with Adversarial Training and Graph Embeddings]()
+* [Towards Understanding Geometry of Knowledge Graph Embeddings]()
+
+
+
+
+
+
+
+## IJCAI2017
+
