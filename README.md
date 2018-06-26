@@ -85,3 +85,6 @@
 [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
 
 [Stanford Network Analysis Project](http://snap.stanford.edu/)
+
+# Read
+[Deep Dynamic Network Embedding for Link Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8365780)
