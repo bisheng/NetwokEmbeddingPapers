@@ -88,6 +88,9 @@
 
 # Read
 [Deep Dynamic Network Embedding for Link Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8365780)
+
 [DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17096/15709)
+
 [Joint Learning of Evolving Links for Dynamic Network Embedding](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16443/16532)
+
 [Continuous-Time Dynamic Network Embeddings](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)
