@@ -1,5 +1,11 @@
 # NetwokEmbeddingPapers
 
+
+## IJCAI2018
+
+* [fdas](baidu.com)
+
+
 ## WWW2018
 * [Co-Regularized Deep Multi-Network Embedding](https://dl.acm.org/citation.cfm?id=3186113)
 * [Dynamic Embeddings for Language Evolution](http://www.cs.columbia.edu/~blei/papers/RudolphBlei2018.pdf)
