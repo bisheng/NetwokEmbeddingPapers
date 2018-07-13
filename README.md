@@ -3,8 +3,7 @@
 
 ## IJCAI2018
 
-* [fdas](baidu.com)
-
+* [ijcai2018](https://dblp.org/db/conf/ijcai/ijcai2018.html)
 
 ## WWW2018
 * [Co-Regularized Deep Multi-Network Embedding](https://dl.acm.org/citation.cfm?id=3186113)
