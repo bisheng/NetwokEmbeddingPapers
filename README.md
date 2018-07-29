@@ -99,3 +99,5 @@
 [Joint Learning of Evolving Links for Dynamic Network Embedding](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16443/16532)
 
 [Continuous-Time Dynamic Network Embeddings](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)
+
+[Co-Regularized Deep Multi-Network Embedding](https://dl.acm.org/citation.cfm?id=3186113)
